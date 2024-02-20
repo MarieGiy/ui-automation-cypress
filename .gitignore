@@ -29,4 +29,6 @@ cypress/videos
 cypress/screenshots
 js/*.js
 
+# OS
+.DS_Store
 
